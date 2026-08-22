@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center" style="color: #f75c7e">
+
+  <h2>I am Satta</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&height=100&lines=Building+AI+products+%26+startups;Engineer+%E2%86%92+Operator+%E2%86%92+Founder;AI+%E2%80%A2+Agents+%E2%80%A2+Regulated+AI;Shipping+experiments+into+products;Based+in+Vancouver%2C+BC" alt="Typing SVG" />
+
+</div>
 
 <!--
 **i-am-satta/i-am-satta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
