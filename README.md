@@ -21,7 +21,6 @@
       <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF7139" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=FF7139" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=FF7139" alt="Claude" />
-      <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FF7139" alt="Ollama" />
       <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=FF7139" alt="Jupyter" />
       <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=FF7139" alt="LangChain" />
       <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langgraph&logoColor=FF7139" alt="LangGraph" />
